@@ -1,0 +1,9 @@
+->Login: The user logs into their account on the website.
+->Navigate to Profile: The user goes to their profile page.
+->Click on Edit Profile: The user clicks on the "Edit Profile" button or link.
+->Choose Profile Picture: The user clicks on the "Upload Profile Picture" button.
+->Select File: A file dialog opens, and the user selects the image file they want to use as their profile picture from their computer.
+->Upload: The user clicks the "Open" or "Upload" button in the file dialog to start the upload process.
+->Preview: The user sees a preview of the uploaded image.
+->Save Changes: The user clicks on the "Save Changes" button to update their profile with the new picture.
+->Confirmation: The website confirms that the profile picture has been successfully uploaded and updated.
