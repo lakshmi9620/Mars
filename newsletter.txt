@@ -1,0 +1,8 @@
+Visit Website: The user goes to the website where they want to subscribe to the newsletter.
+Find Subscription Section: The user locates the newsletter subscription section, often found at the bottom of the homepage or in a pop-up.
+Enter Email: The user enters their email address into the provided subscription form.
+Click Subscribe: The user clicks the "Subscribe" button.
+Confirmation Message: The website displays a message confirming that the subscription was successful.
+Check Email: The user checks their email inbox for a confirmation email from the website.
+Confirm Subscription: The user opens the confirmation email and clicks on the provided link to confirm their subscription.
+Subscription Confirmation: The website confirms that the subscription has been activated, and the user will start receiving newsletters.
